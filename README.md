@@ -1,6 +1,7 @@
 # PNC-R-DroneTaxi-Texbio
 \- THIS VERSION WAS MADE WITH CLAUDE CODE (AI)
 </br>\- If you do not know PneumaticCraft then learn that first.
+</br>\- DOES NOT USE ADVANCED PERIPHERALS!
 
 ## How to use
 ### Server Script
