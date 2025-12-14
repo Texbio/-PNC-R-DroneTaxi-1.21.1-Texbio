@@ -6,14 +6,15 @@ Paste your F3+C when prompted (standing at drone charging station).
 
 import re
 import json
+import math
 
 def parse_f3c(input_str):
     """Parse F3+C format: /execute in dimension run tp @s X Y Z ..."""
     match = re.search(r'@s\s+([-\d.]+)\s+([-\d.]+)\s+([-\d.]+)', input_str)
     if match:
-        x = int(float(match.group(1))) - 1
-        y = int(float(match.group(2)))
-        z = int(float(match.group(3))) - 1
+        x = math.floor(float(match.group(1)))
+        y = math.floor(float(match.group(2)))
+        z = math.floor(float(match.group(3)))
         return x, y, z
     return None
 
