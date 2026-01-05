@@ -49,8 +49,8 @@ https://github.com/user-attachments/assets/47bf7075-92db-4804-97d5-8b9de7416599
 ### Other Items
 \- Safety Tube Module (prevents tubes from exploding)
 </br>\- Pressure Gauge Tube Module + Module Expansion Card (prevents machines from exploding, turn on redstone input for the machine)
-</br>\- Advanced Air Compressor (useful if you have infinite charcoal or coal)
-</br>\- Heat Sink(s) (attach them to the Advanced Air Compressor to disperse heat)
+</br>\- Advanced Flux Compressor or Advanced Air Compressor
+</br>\- Heat Sink(s) (attach them to the Compressor to disperse heat)
 
 ### Upgrades
 #### Changing station:
